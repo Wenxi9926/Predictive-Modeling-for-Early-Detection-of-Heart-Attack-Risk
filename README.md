@@ -103,13 +103,14 @@ You can simulate real-world predictions by manually entering values into the Gra
 - Integrate with **Electronic Health Record (EHR)** systems  
 - Incorporate **explainable AI** (e.g. SHAP values)  
 - Add dashboards for visualizing predictions and trends  
-- Retrain periodically based on updated patient data and trends  
+- Retrain periodically based on updated patient data and trends 
 
 ---
 
 ## 👥 Team
 
 This project was completed as part of the WQD7003 *Data Analytics* course by **Data Glam Squad** in 28 December 2024.
+
 ---
 
 ### 📄 License

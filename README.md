@@ -42,6 +42,7 @@ Heart disease is the leading cause of global mortality. Diagnosis is often delay
 | **Random Forest** | **85%**  | Best overall performance, selected for deployment |
 
 📌 **Random Forest was selected as the final model** due to its high accuracy and robustness.
+
 ---
 
 ## 🚀 Deployment Quick Start (Gradio in Google Colab)

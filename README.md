@@ -41,15 +41,7 @@ Heart disease is the leading cause of global mortality. Diagnosis is often delay
 | AdaBoost          | 84%      | Performs well with weak learners              |
 | **Random Forest** | **85%**  | Best overall performance, selected for deployment |
 
----
-
-## ✅ Final Model: Random Forest
-
-- Chosen for its balance of accuracy, robustness, and interpretability
-- Saved as `random_forest_model.zip`, which includes:
-  - Trained model
-  - Preprocessing scaler or encoder (if any)
-
+📌 **Random Forest was selected as the final model** due to its high accuracy and robustness.
 ---
 
 ## 🚀 Deployment Quick Start (Gradio in Google Colab)
